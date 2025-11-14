@@ -2,6 +2,8 @@
 
 Dataset : (https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
+Big Query Link : (https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smorning-coffee-477921!2sus-central1!3s6b7e4035-4c83-4c9d-b39c-4e70f0c2446b!2e1)
+
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
